@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/suk-6/study-monorepo-lib
+[submodule "component"]
+	path = component
+	url = https://github.com/suk-6/study-monorepo-component
